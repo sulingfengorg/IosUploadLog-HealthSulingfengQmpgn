@@ -1,0 +1,14 @@
+Command line invocation:
+    /Applications/Xcode_27.1.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/HealthSulingfengQmpgn/HealthSulingfengQmpgn/HealthSulingfengQmpgn.xcworkspace
+
+Information about workspace "HealthSulingfengQmpgn":
+    Schemes:
+        HealthSulingfengQmpgn
+        HealthSulingfengQmpgn_Test
+        Pods-HealthSulingfengQmpgn
+        Pods-HealthSulingfengQmpgn_Test
+        Pods-HealthSulingfengQmpgnTests
+        StumpSDK
+        UMCommon
+        UMDevice
+

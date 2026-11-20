@@ -1,0 +1,13 @@
+Running altool at path '/Applications/Xcode_27.1.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-11-20 07:52:29.724 ERROR: [ContentDelivery.Uploader.7A8B0C9300] 
+=======================================
+UPLOAD FAILED with 1 error
+=======================================
+2026-11-20 07:52:29.727 ERROR: [altool.7A8B0C9300] Invalid bundle. The “UIInterfaceOrientationPortrait” orientations were provided for the UISupportedInterfaceOrientations Info.plist key in the com.silverdawn.frostyhill.myst bundle, but you need to include all of the “UIInterfaceOrientationPortrait,UIInterfaceOrientationPortraitUpsideDown,UIInterfaceOrientationLandscapeLeft,UIInterfaceOrientationLandscapeRight” orientations to support iPad multitasking. For details, visit: https://developer.apple.com/documentation/bundleresources/information_property_list/uisupportedinterfaceorientations. (90474) n/a (ID: B2FAWEVDDLNBQMTJTQLLQZOKZ4)
+   NSUnderlyingError : A server error occurred. (-19241)
+      code : 90474
+      description : Invalid bundle. The “UIInterfaceOrientationPortrait” orientations were provided for the UISupportedInterfaceOrientations Info.plist key in the com.silverdawn.frostyhill.myst bundle, but you need to include all of the “UIInterfaceOrientationPortrait,UIInterfaceOrientationPortraitUpsideDown,UIInterfaceOrientationLandscapeLeft,UIInterfaceOrientationLandscapeRight” orientations to support iPad multitasking. For details, visit: https://developer.apple.com/documentation/bundleresources/information_property_list/uisupportedinterfaceorientations.
+   iris-code : 90474
+2026-11-20 07:52:29.729 ERROR: [altool.main] ExitFailure (31)
+Failed to upload package.
